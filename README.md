@@ -1,1 +1,1 @@
-# Lanqiaoalgotithm
+# to get prime
